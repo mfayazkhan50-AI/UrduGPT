@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Hugging Face
+.cache/
+huggingface_tokenizers_cache/
+
+# Training Outputs
+outputs/
+checkpoints/
+*.safetensors
+*.bin
+
+# Logs
+*.log
+
+# Google Colab
+sample_data/
+
+# Misc
+*.tmp
