@@ -1,0 +1,1382 @@
+prompt,sft_response,dpo_response,judge_result,winner,reason
+prompt,پاکستان کا دارالحکومت ایبادان ہے,پاکستان کا دارالحکومت اسلام آباد ہے۔,"{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides the correct capital of Pakistan, Islamabad, whereas Response A incorrectly states it as Ibadan, which is not even a city in Pakistan.""
+}",B,"Response B provides the correct capital of Pakistan, Islamabad, whereas Response A incorrectly states it as Ibadan, which is not even a city in Pakistan."
+prompt,پاکستان کا دارالحکومت ایبادان ہے,مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not being relevant to the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}",B,"Response B is more helpful, clear, and complete, despite not being relevant to the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan."
+prompt,پاکستان کا دارالحکومت ایبادان ہے,"Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not being relevant to the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}",B,"Response B is more helpful, clear, and complete, despite not being relevant to the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan."
+prompt,پاکستان کا دارالحکومت ایبادان ہے,مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful and clear, although it doesn't directly answer the question, Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}",B,"Response B is more helpful and clear, although it doesn't directly answer the question, Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan."
+prompt,پاکستان کا دارالحکومت ایبادان ہے,"SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the given question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the given question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}
+```"
+prompt,پاکستان کا دارالحکومت ایبادان ہے,"اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}",B,"Response B is more helpful, clear, and complete, despite not directly answering the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan."
+prompt,پاکستان کا دارالحکومت ایبادان ہے,"ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}
+```"
+prompt,پاکستان کا دارالحکومت ایبادان ہے,"فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}",B,"Response B is more helpful, clear, and complete, despite not directly answering the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan."
+prompt,پاکستان کا دارالحکومت ایبادان ہے,"REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite being irrelevant to the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}",B,"Response B is more helpful, clear, and complete, despite being irrelevant to the question, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan."
+prompt,پاکستان کا دارالحکومت ایبادان ہے,نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan.""
+}",B,"Response B is more helpful, clear, and complete, while Response A is incorrect as Islamabad is the capital of Pakistan, not Ibadan."
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,پاکستان کا دارالحکومت اسلام آباد ہے۔,"{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of machine learning, while Response B is unrelated and discusses the capital of Pakistan.""
+}",A,"Response A is relevant to the topic of machine learning, while Response B is unrelated and discusses the capital of Pakistan."
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides a clearer and more concise definition of machine learning, using more precise terminology and avoiding repetition.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides a clearer and more concise definition of machine learning, using more precise terminology and avoiding repetition.""
+}
+```"
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,"Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the concept of machine learning, providing a clear and relevant explanation, whereas Response B discusses Python programming language, which is unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the concept of machine learning, providing a clear and relevant explanation, whereas Response B discusses Python programming language, which is unrelated to the question.""
+}
+```"
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more accurate, clear, and directly addresses the concept of machine learning, whereas Response B is incomplete and seems to be discussing artificial intelligence in general.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more accurate, clear, and directly addresses the concept of machine learning, whereas Response B is incomplete and seems to be discussing artificial intelligence in general.""
+}
+```"
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,"SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the concept of machine learning, providing a clear and relevant explanation, whereas Response B discusses SQL and NoSQL, which seems unrelated to the question about machine learning.""
+}",A,"Response A directly addresses the concept of machine learning, providing a clear and relevant explanation, whereas Response B discusses SQL and NoSQL, which seems unrelated to the question about machine learning."
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,"اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of machine learning, while Response B is unrelated and discusses Islamic principles.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of machine learning, while Response B is unrelated and discusses Islamic principles.""
+}
+```"
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,"ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","The question prompt is missing, but based on the provided responses, it seems that Response A is related to machine learning, while Response B is about writing a professional email. Assuming the question is about machine learning, I will evaluate the responses accordingly.
+
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of machine learning, while Response B seems unrelated.""
+}",Error,"The question prompt is missing, but based on the provided responses, it seems that Response A is related to machine learning, while Response B is about writing a professional email. Assuming the question is about machine learning, I will evaluate the responses accordingly.
+
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of machine learning, while Response B seems unrelated.""
+}"
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,"فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the question about machine learning, providing a clear and relevant explanation, whereas Response B is unrelated to the question.""
+}",A,"Response A directly addresses the question about machine learning, providing a clear and relevant explanation, whereas Response B is unrelated to the question."
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,"REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","The question prompt is missing, but based on the provided responses, I can evaluate them.
+
+Response A seems to be related to machine learning, while Response B is about REST API. Since the question prompt is missing, I'll assume that the question is related to one of these topics.
+
+Response A is clear and provides a basic definition of machine learning. Response B, on the other hand, seems to be incomplete and repetitive.
+
+Based on the evaluation criteria:
+
+- Correctness: Both responses seem to be correct in their respective domains.
+- Helpfulness: Response A is more helpful as it provides a clear definition.
+- Clarity: Response A is clearer than Response B.
+- Completeness: Response A is more complete than Response B.
+- Fluency: Response A is more fluent than Response B.
+
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is clearer, more complete, and more helpful.""
+}",Error,"The question prompt is missing, but based on the provided responses, I can evaluate them.
+
+Response A seems to be related to machine learning, while Response B is about REST API. Since the question prompt is missing, I'll assume that the question is related to one of these topics.
+
+Response A is clear and provides a basic definition of machine learning. Response B, on the other hand, seems to be incomplete and repetitive.
+
+Based on the evaluation criteria:
+
+- Correctness: Both responses seem to be correct in their respective domains.
+- Helpfulness: Response A is more helpful as it provides a clear definition.
+- Clarity: Response A is clearer than Response B.
+- Completeness: Response A is more complete than Response B.
+- Fluency: Response A is more fluent than Response B.
+
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is clearer, more complete, and more helpful.""
+}"
+prompt,مشین لرننگ ایک قسم کی کمپیوٹر سائنس ہے جو کمپیوٹرز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرتی ہے۔ یہ کمپیوٹر پروگرامز کو ڈیٹا سے تعلیم حاصل کرنے اور اسے اپنے کاموں میں استعمال کرنے کی صلاحیت فراہم کرنے کے لیے ڈیٹا سے تعلیم حاصل کرنے کے لیے ایک طریقہ ہے۔,نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the concept of machine learning, providing a clear and relevant explanation, whereas Response B discusses neural networks, which is a related but distinct topic.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the concept of machine learning, providing a clear and relevant explanation, whereas Response B discusses neural networks, which is a related but distinct topic.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،",پاکستان کا دارالحکومت اسلام آباد ہے۔,"{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is completely unrelated to the question, but Response A is also incorrect and incomplete as it doesn't provide a valid reason for the prompt and has repetitive points, however Response B is more incorrect as it doesn't relate to the question at all but since both are incorrect and the question is about python, Response A is slightly better but since it doesn't answer the question and has repetitive points and Response B doesn't answer the question, the winner should be neither A or B but since that is not an option and Response B is more unrelated, the winner is B by default""
+}",B,"Response B is completely unrelated to the question, but Response A is also incorrect and incomplete as it doesn't provide a valid reason for the prompt and has repetitive points, however Response B is more incorrect as it doesn't relate to the question at all but since both are incorrect and the question is about python, Response A is slightly better but since it doesn't answer the question and has repetitive points and Response B doesn't answer the question, the winner should be neither A or B but since that is not an option and Response B is more unrelated, the winner is B by default"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،",مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete in providing a relevant and accurate answer, whereas Response A is repetitive and lacks coherence.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete in providing a relevant and accurate answer, whereas Response A is repetitive and lacks coherence.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،","Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, providing specific reasons why Python is a good programming language, such as its simplicity and efficiency.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, providing specific reasons why Python is a good programming language, such as its simplicity and efficiency.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،",مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant to the topic of Python, as it discusses artificial intelligence, which is a field where Python is commonly used, whereas Response A is incomplete and repetitive.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant to the topic of Python, as it discusses artificial intelligence, which is a field where Python is commonly used, whereas Response A is incomplete and repetitive.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،","SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the question about Python, it provides more relevant and coherent information.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not directly answering the question about Python, it provides more relevant and coherent information.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،","اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and relevant, despite not being related to the question, Response A is incomplete and repetitive.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and relevant, despite not being related to the question, Response A is incomplete and repetitive.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،","ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not being relevant to the question, whereas Response A is incomplete and lacks clarity.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete, despite not being relevant to the question, whereas Response A is incomplete and lacks clarity.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،","فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides a clear structure, despite being unrelated to the question about Python, while Response A is incomplete and repetitive.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides a clear structure, despite being unrelated to the question about Python, while Response A is incomplete and repetitive.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،","REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides some relevant information about REST API, while Response A is repetitive and lacks clarity.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides some relevant information about REST API, while Response A is repetitive and lacks clarity.""
+}
+```"
+prompt,"Python ایک بہترین پروگرامنگ زبان ہے کیونکہ یہ بہت سارے کام کرنے میں مدد کرتا ہے، جیسے:
+
+1. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے، جیسے کہ ڈیٹا اینالائزیشن، ڈیٹا ویزر، اور ڈیٹا ویزرنگ کے لیے، جس سے ڈیٹا کو بہتر طریقے سے سمجھنے اور استعمال کرنے میں مدد ملتی ہے۔
+
+2. **بہت سارے کام کرنے میں مدد**: Python بہت سارے کام کرنے میں مدد کرتا ہے،",نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent, clear, and provides a meaningful explanation, whereas Response A is repetitive and lacks a clear understanding of the topic.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent, clear, and provides a meaningful explanation, whereas Response A is repetitive and lacks a clear understanding of the topic.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,پاکستان کا دارالحکومت اسلام آباد ہے۔,"{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of artificial intelligence, while Response B is unrelated and appears to be about Pakistan's capital city.""
+}",A,"Response A is relevant to the topic of artificial intelligence, while Response B is unrelated and appears to be about Pakistan's capital city."
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more accurate, clear, and helpful in explaining the concept of artificial intelligence, specifically mentioning machine learning and its ability to enable computer systems to learn.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more accurate, clear, and helpful in explaining the concept of artificial intelligence, specifically mentioning machine learning and its ability to enable computer systems to learn.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,"Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and fluent, although it doesn't directly answer the question about مصنوعی ذہانت (Artificial Intelligence), it provides a coherent and well-structured response, whereas Response A seems incomplete and repetitive.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and fluent, although it doesn't directly answer the question about مصنوعی ذہانت (Artificial Intelligence), it provides a coherent and well-structured response, whereas Response A seems incomplete and repetitive.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides a more accurate and comprehensive definition of Artificial Intelligence, despite some repetition.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides a more accurate and comprehensive definition of Artificial Intelligence, despite some repetition.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,"SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clear explanation, while Response A seems to be incomplete and repetitive.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clear explanation, while Response A seems to be incomplete and repetitive.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,"اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and relevant, despite not answering the given question, Response A is also not relevant to the given question but Response B has more meaningful content.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and relevant, despite not answering the given question, Response A is also not relevant to the given question but Response B has more meaningful content.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,"ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of artificial intelligence, while Response B seems unrelated and discusses email writing.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of artificial intelligence, while Response B seems unrelated and discusses email writing.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,"فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of artificial intelligence, while Response B seems unrelated and discusses freelancing instead.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of artificial intelligence, while Response B seems unrelated and discusses freelancing instead.""
+}
+```"
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,"REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more correct, helpful, clear, and complete in explaining the concept of REST API, whereas Response A seems to be discussing artificial intelligence and is not relevant to the given prompt.""
+}",B,"Response B is more correct, helpful, clear, and complete in explaining the concept of REST API, whereas Response A seems to be discussing artificial intelligence and is not relevant to the given prompt."
+prompt,مصنوعی ذہانت ایک قسم کی کمپیوٹر پروگرامنگ ہے جو ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنے کے لئے ڈیزائن کیا گیا ہے۔ یہ پروگرام ہر قسم کے کاموں کو انجام دینے کے لئے استعمال ہوسکتا ہے، جیسے کہ ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں منتقل کرنا، ذہانت کے عمل کو بہتر بنانا، یا ذہانت کے عمل کو ایک کمپیوٹر سے ایک اور کمپیوٹر یا ہیڈ فونڈ میں,نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clearer explanation of a specific concept (neural network) related to artificial intelligence, whereas Response A is repetitive and lacks clarity.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clearer explanation of a specific concept (neural network) related to artificial intelligence, whereas Response A is repetitive and lacks clarity.""
+}
+```"
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ",پاکستان کا دارالحکومت اسلام آباد ہے۔,"{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of SQL and NoSQL databases, while Response B is unrelated to the topic.""
+}",A,"Response A is relevant to the topic of SQL and NoSQL databases, while Response B is unrelated to the topic."
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ",مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is unrelated to the question and discusses machine learning instead.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is unrelated to the question and discusses machine learning instead.""
+}
+```"
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ","Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is about Python programming language and does not address the question.""
+}",A,"Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is about Python programming language and does not address the question."
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ",مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is completely unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is completely unrelated to the question.""
+}
+```"
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ","SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more accurate, clear, and complete in explaining the difference between SQL and NoSQL databases, providing a better understanding of the topic.""
+}",A,"Response A is more accurate, clear, and complete in explaining the difference between SQL and NoSQL databases, providing a better understanding of the topic."
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ","اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt, providing information about SQL and NoSQL databases, while Response B is unrelated to the topic.""
+}",A,"Response A is more relevant to the prompt, providing information about SQL and NoSQL databases, while Response B is unrelated to the topic."
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ","ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic and provides a clear explanation of SQL and NoSQL databases, while Response B seems unrelated to the question.""
+}",A,"Response A is more relevant to the topic and provides a clear explanation of SQL and NoSQL databases, while Response B seems unrelated to the question."
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ","فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B is unrelated to the question.""
+}
+```"
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ","REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B discusses REST API which seems unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B discusses REST API which seems unrelated to the question.""
+}
+```"
+prompt,"SQL اور NoSQL دونوں ڈیٹا بیس سسٹم ہیں، لیکن ان میں مختلف طرز عمل اور خصوصیات ہیں۔
+
+SQL (Structured Query Language) ایک زبان ہے جو ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے استعمال ہوتی ہے۔ یہ ایک منظم ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے ڈیزائن کیا گیا ہے، جہاں ڈیٹا کو ایک منظم اور منظم طریقے سے ذخیرہ کیا جاتا ہے۔ SQL کا استعمال ڈیٹا بیس سسٹم کے ساتھ کام کرنے کے لیے کیا جاتا ہے، جیسے کہ",نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B seems unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear explanation of SQL and NoSQL databases, while Response B seems unrelated to the question.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,پاکستان کا دارالحکومت اسلام آباد ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the importance of diyanat dاری (honesty) in Islam, while Response B is unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A directly addresses the importance of diyanat dاری (honesty) in Islam, while Response B is unrelated to the question.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear and helpful explanation, while Response B is unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear and helpful explanation, while Response B is unrelated to the question.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,"Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear and concise answer, while Response B seems unrelated to the question and discusses Python programming language.""
+}",A,"Response A is more relevant to the question and provides a clear and concise answer, while Response B seems unrelated to the question and discusses Python programming language."
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear and helpful answer, while Response B is unrelated to the question and appears to be a jumbled collection of words about artificial intelligence.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear and helpful answer, while Response B is unrelated to the question and appears to be a jumbled collection of words about artificial intelligence.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,"SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear and helpful answer, while Response B seems unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear and helpful answer, while Response B seems unrelated to the question.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,"اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides more specific and detailed information about the importance of دیانت داری in Islam, including examples of its application in daily life, making it more helpful and complete.""
+}",B,"Response B provides more specific and detailed information about the importance of دیانت داری in Islam, including examples of its application in daily life, making it more helpful and complete."
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,"ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear and concise answer, while Response B seems unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear and concise answer, while Response B seems unrelated to the question.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,"فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant and directly answers the question, while Response B seems unrelated to the prompt.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant and directly answers the question, while Response B seems unrelated to the prompt.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,"REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear and coherent answer, while Response B seems unrelated to the question and contains repetitive and unclear information.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question and provides a clear and coherent answer, while Response B seems unrelated to the question and contains repetitive and unclear information.""
+}
+```"
+prompt,اسلام میں دیانت داری ایک اہم اور ضروری کردار ہے۔ دیانت داری ایک شخص کو اپنی ایمان اور عقیدت کے مطابق زندگی گزارنے کی ترغیب دیتی ہے۔ یہ ایک شخص کو اپنے عملوں اور جذبات سے متعلق ہمیشہ سچ اور درست رہنے کی ترغیب دیتی ہے۔,نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the question and provides a clear and helpful explanation, while Response B is unrelated to the question.""
+}",A,"Response A is relevant to the question and provides a clear and helpful explanation, while Response B is unrelated to the question."
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا",پاکستان کا دارالحکومت اسلام آباد ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant and helpful to the question, providing a clear and structured approach to writing a professional email.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant and helpful to the question, providing a clear and structured approach to writing a professional email.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا",مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides a clear, step-by-step guide on how to write a professional email, whereas Response B is unrelated to the prompt.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides a clear, step-by-step guide on how to write a professional email, whereas Response B is unrelated to the prompt.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا","Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt about writing a professional email, while Response B is about the Python programming language.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt about writing a professional email, while Response B is about the Python programming language.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا",مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt, providing a clear and helpful guide on how to write a professional email, whereas Response B is unrelated to the prompt and discusses artificial intelligence instead.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt, providing a clear and helpful guide on how to write a professional email, whereas Response B is unrelated to the prompt and discusses artificial intelligence instead.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا","SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more fluent and clear, although it doesn't seem to answer the given Urdu question. Response A seems to be more relevant to the question but has incomplete and repetitive information.""
+}",B,"Response B is more fluent and clear, although it doesn't seem to answer the given Urdu question. Response A seems to be more relevant to the question but has incomplete and repetitive information."
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا","اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt about writing a professional email, whereas Response B is about the importance of honesty in Islam and does not address the prompt.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt about writing a professional email, whereas Response B is about the importance of honesty in Islam and does not address the prompt.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا","ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A provides a more comprehensive and structured approach to writing a professional email, covering key aspects such as summary, introduction, purpose, and details.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A provides a more comprehensive and structured approach to writing a professional email, covering key aspects such as summary, introduction, purpose, and details.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا","فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question, provides a clear structure for writing a professional email, and is more complete and fluent in its explanation.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the question, provides a clear structure for writing a professional email, and is more complete and fluent in its explanation.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا","REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt, providing a clear and structured approach to writing a professional email, whereas Response B seems unrelated to the prompt and discusses REST API instead.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt, providing a clear and structured approach to writing a professional email, whereas Response B seems unrelated to the prompt and discusses REST API instead.""
+}
+```"
+prompt,"ایک پروفیشنل ای میل لکھنے کے لیے یہاں کچھ سائنسی طریقے ہیں:
+
+1. **خلاصہ**: ای میل کا خلاصہ لکھیں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+2. **خوش آمدگی**: ای میل کا آغاز ایک خوش آمدگی سے کریں، جس میں آپ کا نام، ای میل آڈریس، اور ای میل کا موضوع شامل ہو۔
+
+3. **مہم**: ای میل میں آپ کا مقصد یا مہم بیان کریں، جس میں آپ کے کام، خدمات، یا تجارتی تجاویز شامل ہوں۔
+
+4. **تفصیلات**: ای میل میں تفصیلات شامل کریں، جس میں آپ کے کام، خدمات، یا",نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt about writing a professional email, while Response B seems unrelated to the topic.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt about writing a professional email, while Response B seems unrelated to the topic.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل",پاکستان کا دارالحکومت اسلام آباد ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of freelancing and provides helpful steps, while Response B is unrelated to the topic.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of freelancing and provides helpful steps, while Response B is unrelated to the topic.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل",مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the context of freelancing, while Response B seems unrelated and discusses machine learning instead.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the context of freelancing, while Response B seems unrelated and discusses machine learning instead.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل","Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more complete, clear, and fluent, although it does not address the given Urdu question. Response A is incomplete and does not fully address the question, but it is more relevant to the prompt. However, since Response B is better in terms of clarity and completeness, it is considered the winner.""
+}",B,"Response B is more complete, clear, and fluent, although it does not address the given Urdu question. Response A is incomplete and does not fully address the question, but it is more relevant to the prompt. However, since Response B is better in terms of clarity and completeness, it is considered the winner."
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل",مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides helpful steps for starting freelancing, while Response B is unrelated to the prompt and discusses artificial intelligence.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides helpful steps for starting freelancing, while Response B is unrelated to the prompt and discusses artificial intelligence.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل","SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides helpful steps for starting freelancing, while Response B seems unrelated to the question.""
+}",A,"Response A is more relevant to the prompt and provides helpful steps for starting freelancing, while Response B seems unrelated to the question."
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل","اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides helpful information on freelancing, while Response B seems unrelated to the topic.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides helpful information on freelancing, while Response B seems unrelated to the topic.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل","ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of freelancing and provides a clear and helpful starting point, despite being incomplete.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of freelancing and provides a clear and helpful starting point, despite being incomplete.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل","فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more complete, clear, and helpful, providing specific steps for starting freelancing, while Response B is incomplete and lacks specific details.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more complete, clear, and helpful, providing specific steps for starting freelancing, while Response B is incomplete and lacks specific details.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل","REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the context of freelancing, while Response B seems unrelated and discusses REST API.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the context of freelancing, while Response B seems unrelated and discusses REST API.""
+}
+```"
+prompt,"فری لانسنگ شروع کرنے کے لیے کچھ اہم اقدامات کرنا چاہیے:
+
+1. اپنے کौशل اور تجربات کو جائزہ لے: اپنے کہنے کے کौशل، لکھنے کے کौशل، اور کسی بھی اور کہیں کے سے حاصل کردہ تجربات کو جائزہ لے۔ یہ آپ کو فری لانسنگ کے مختلف شعبوں میں اپنے کہنے کے کौशل کو بہتر بنانے میں مدد کرے گا۔
+
+2. اپنے مقاصد کو ناقص بنائیں: فری لانسنگ کے لیے اپنے مقاصد کو ناقص بنائیں۔ کیا آپ اپنے کہنے کے کौशل",نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides helpful information on freelancing, while Response B seems unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt and provides helpful information on freelancing, while Response B seems unrelated to the question.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,پاکستان کا دارالحکومت اسلام آباد ہے۔,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of REST API, while Response B is unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of REST API, while Response B is unrelated to the question.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"Since the question prompt is empty, I will evaluate the responses based on the assumption that the question is related to a topic in computer science or technology.
+
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides a clear explanation of a concept, whereas Response A seems to be incomplete and unclear.""
+}",Error,"Since the question prompt is empty, I will evaluate the responses based on the assumption that the question is related to a topic in computer science or technology.
+
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides a clear explanation of a concept, whereas Response A seems to be incomplete and unclear.""
+}"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,"Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","Since the question prompt is not provided, I will evaluate the responses based on the given criteria, assuming the question is related to REST API or programming languages.
+
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides specific details about Python, whereas Response A seems to be incomplete and unclear in its explanation of REST API.""
+}",Error,"Since the question prompt is not provided, I will evaluate the responses based on the given criteria, assuming the question is related to REST API or programming languages.
+
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more coherent and provides specific details about Python, whereas Response A seems to be incomplete and unclear in its explanation of REST API.""
+}"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of REST API, while Response B is about Artificial Intelligence, which is unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic of REST API, while Response B is about Artificial Intelligence, which is unrelated to the question.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,"SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete in addressing the topic, despite the question prompt being empty.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful, clear, and complete in addressing the topic, despite the question prompt being empty.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,"اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of REST API, while Response B is completely off-topic and discusses Islamic principles.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of REST API, while Response B is completely off-topic and discusses Islamic principles.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,"ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant to the topic of writing a professional email, while Response A seems to be about REST API and is not related to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant to the topic of writing a professional email, while Response A seems to be about REST API and is not related to the question.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,"فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of REST API, while Response B is unrelated and discusses freelancing.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of REST API, while Response B is unrelated and discusses freelancing.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,"REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more accurate, clear, and helpful in explaining the concept of REST API, despite some repetition.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more accurate, clear, and helpful in explaining the concept of REST API, despite some repetition.""
+}
+```"
+prompt,REST API (Representational State of Resource) ایک ایسا پروٹوکول ہے جو ہمیشہ انٹرنیٹ پر ڈیٹا کی ایک سے زیادہ تراہیں کے لیے ایک ایسے سسٹم کو بنانے کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک ایسے طریقے سے ہٹا جاسکتا ہے جس میں ہر ایک سے زیادہ تراہیں ہو۔,نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clearer explanation, despite the question being about REST API, Response A's explanation is incomplete and unclear, while Response B provides a more coherent and helpful explanation, even if it's not directly related to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clearer explanation, despite the question being about REST API, Response A's explanation is incomplete and unclear, while Response B provides a more coherent and helpful explanation, even if it's not directly related to the question.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,پاکستان کا دارالحکومت اسلام آباد ہے۔,"{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is relevant to the topic of neural networks, while Response B is unrelated and discusses Pakistan's capital city.""
+}",A,"Response A is relevant to the topic of neural networks, while Response B is unrelated and discusses Pakistan's capital city."
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,مشین لرننگ (Machine Learning) ایک فیلڈ ہے جو کمپیوٹر سिसٹم کو learns کرنے کے لیے ایک سے زیادہ طریقوں کا استعمال کرتا ہے۔ یہ ایک قسم کی الگوریتھم ہے جو کمپیوٹر سسٹم کو ایک سے زیادہ طریقوں سے سیکھنے کی اجازت دیتا ہے، جس سے وہ خود سے سیکھنے اور اپنی صلاحیتوں کو بڑھانے کے لیے استعمال کیا جا سکتا ہے۔,"```
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clear explanation of the concept, while Response A seems to be discussing a different topic (computer network) and is not directly related to the question.""
+}
+```",Error,"```
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more relevant and provides a clear explanation of the concept, while Response A seems to be discussing a different topic (computer network) and is not directly related to the question.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,"Python ایک بہت ہی مقبول اور موثر پروگرامنگ زبان ہے، جو کہ مختلف شعبوں میں استعمال ہوتی ہے۔ یہ کئی وجوہات پر مشتمل ہے جو اسے ایک موثر زبان بناتی ہیں:
+
+1. **سادہ اور آسان**: Python ایک سادہ اور آسان زبان ہے، جو کہ اسے نئے پروگرامرز کے لیے ایک موثر پلیٹ فارم بناتی ہے۔ اس کی زبان کی سادہ اور آسان بناوٹ اسے ایک بہت ہی موثر زبان بناتی ہے۔
+
+2. **فوری اور ایکسیلینٹ**: Python ایک فوری اور ایکسیلینٹ زبان ہے، جو کہ اسے ایک بہت ہی موثر زبان بن","The provided prompt is empty, so I will assume the question is about the definition or explanation of a specific topic, likely related to neural networks or programming languages, given the context of the responses.
+
+Response A seems to be related to neural networks, but it appears to be incomplete and unclear, as it mentions ""ڈیٹا لینز"" (data lenses) without explaining what they are or how they relate to neural networks.
+
+Response B, on the other hand, is about the Python programming language, its simplicity, and effectiveness. However, it does not seem to be related to the assumed topic of neural networks.
+
+Given the lack of context and clarity in both responses, it's challenging to determine which one is more correct or helpful. However, since Response B provides more coherent and relevant information about Python, even though it might not be related to the intended topic, I would evaluate it as more helpful and clear.
+
+```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides more coherent and relevant information, despite potentially not being related to the intended topic.""
+}
+```",Error,"The provided prompt is empty, so I will assume the question is about the definition or explanation of a specific topic, likely related to neural networks or programming languages, given the context of the responses.
+
+Response A seems to be related to neural networks, but it appears to be incomplete and unclear, as it mentions ""ڈیٹا لینز"" (data lenses) without explaining what they are or how they relate to neural networks.
+
+Response B, on the other hand, is about the Python programming language, its simplicity, and effectiveness. However, it does not seem to be related to the assumed topic of neural networks.
+
+Given the lack of context and clarity in both responses, it's challenging to determine which one is more correct or helpful. However, since Response B provides more coherent and relevant information about Python, even though it might not be related to the intended topic, I would evaluate it as more helpful and clear.
+
+```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides more coherent and relevant information, despite potentially not being related to the intended topic.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,مصنوعی ذہانت یا مصنوعی ذہانت (انگریزی: Artificial Intelligence) ایک شعبہ ہے جو مصنوعی ذہانت کے عمل کو شامل کرتی ہے۔ یہ ایک بڑا شعبہ ہے جو مصنوعی ذہانت کے مختلف پہلوؤں کو شامل کرتی ہے، جیسے کہ مصنوعی ذہانت کے عمل، مصنوعی ذہانت کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت کے عمل، مصنوعی ذہانت کے عمل کے ذریعے ذہانت ک,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant and provides a clear explanation, while Response B seems unrelated to the question and contains repetitive text.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant and provides a clear explanation, while Response B seems unrelated to the question and contains repetitive text.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,"SQL اور NoSQL دونوں ڈیٹا بزنس کے لیے ایک اہم ذریعہ ہیں، لیکن ان کے درمیان کئی اہم فرق ہیں۔
+
+SQL (Structured Query Language) ایک پروگرامنگ لینگویج ہے جو ڈیٹا کو منظم کرنے اور اسے ذخیرہ کرنے کے لیے استعمال ہوتا ہے۔ یہ ایک پلیٹ فارم ہے جس میں ڈیٹا کو ذخیرہ کیا جاتا ہے اور اسے منظم کیا جاتا ہے۔ SQL کا مقصد ڈیٹا کو ذخیرہ کرنا اور اسے منظم کرنا ہے، جس کے لیے ڈیٹا کو ذخیرہ کرن�","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful and clear, although it seems to be answering a different question, Response A is not providing a clear or complete answer to any question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more helpful and clear, although it seems to be answering a different question, Response A is not providing a clear or complete answer to any question.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,"اسلام میں دیانت داری کی اہمیت بہت زیادہ ہے۔ دیانت داری ایک اہم اسلامی معیار ہے جو ایک مسلم کی زندگی میں ایک اہم کردار ادا کرتا ہے۔ اس میں ایک مسلم کی ایک سے زیادہ فرائض شامل ہیں، جن میں سے کچھ یہ ہیں:
+
+1. نماز (صلاہ): ایک مسلم کو روزانہ پانچ صلوں پڑھنے کی ضرورت ہوتی ہے۔ یہ ایک مسلم کی ایک اہم ذمہ داری ہے اور اسے اس کی زندگی میں ایک اہم کردار ادا کرنا ہوتا ہے۔
+2. زکہ (زکہ): ایک مسلم کو اپنے معیش","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt, providing a clear and concise explanation of a neural network, whereas Response B is unrelated to the prompt and discusses Islamic principles.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the prompt, providing a clear and concise explanation of a neural network, whereas Response B is unrelated to the prompt and discusses Islamic principles.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,"ایک پروفیشنل ای میل لکھنے کے لیے کچھ اہم پہلوؤں کو ध्यان میں رکھنا چاہیے:
+
+1. **صارف نام**: ای میل کا صارف نام پروفیشنل ہونے کے ساتھ ساتھ اس کے نام کا ایک مختصر اور قابل پہچانہ نام ہونا چاہیے۔ اسے ایک ایسی چیز کے طور پر لکھا جائے جو صارف کے نام سے متعلق ہو۔
+
+2. **ای میل ایڈریس**: ای میل کے صارف کے پاس ایک ایسی ای میل ایڈریس ہونی چاہیے جو اس کے صارف نام سے متعلق ہو۔
+
+3. **واضح اور سہی**: ای میل کے صارف کے پاس ایک ایسی ای میل ک","```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic, providing a clear and concise definition of a neural network, while Response B seems unrelated to the question.""
+}
+```",Error,"```json
+{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant to the topic, providing a clear and concise definition of a neural network, while Response B seems unrelated to the question.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,"فری لانسنگ شروع کرنے کے لیے کچھ اہم کہنے کی ضرورت ہے:
+
+1. **اپنی کامیابی کیedefینیشن**: اپنی فری لانسنگ کے لیے کیا کرنا چاہیے، یہ پہلے سے نہیں تھا۔ اپنی کامیابی کیedefینیشن بنائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+2. **اپنی کہانی بنائیں**: اپنی فری لانسنگ کے لیے ایک کہانی بنائیں۔ اسے اپنی کامیابی کیedefینیشن کے ساتھ ملائیں اور اسے اپنی فری لانسنگ کے لیے ایک مہذب مقصد بنائیں۔
+
+3. **اپنی کامیابی کے لیے ای","{
+    ""winner"": ""A"",
+    ""reason"": ""Response A is more relevant and accurate to the question, while Response B seems unrelated to the topic.""
+}",A,"Response A is more relevant and accurate to the question, while Response B seems unrelated to the topic."
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,"REST API (Representational State of Resource) ایک ایسا پروٹوکل ہے جو کہ ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔ یہ پروٹوکل ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تبادلہ کرنے کے لیے استعمال کیا جاتا ہے۔
+
+REST API کے لیے پہلے سے کچھ اہم خصوصیات ہیں:
+
+1. **سے-سے تبادلہ**: REST API ایک ایسے سسٹم کو ایک ایسے سسٹم سے ایک ایسے سسٹم تک معلومات کا تب","```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides more relevant and accurate information about REST API, which seems to be the topic of the question, whereas Response A talks about neural networks.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B provides more relevant and accurate information about REST API, which seems to be the topic of the question, whereas Response A talks about neural networks.""
+}
+```"
+prompt,نیورل نیٹ ورک ایک قسم کا کمپیوٹر نیٹ ورک ہے جو ڈیٹا کے تبادلے کے لیے ڈیٹا لینز کے ذریعے منسلک ہوتا ہے۔ یہ نیٹ ورک ڈیٹا کے تبادلے کے لیے ایک ایسے نظام کے طور پر کام کرتا ہے جس میں ڈیٹا لینز کے ذریعے منسلک ڈیٹا کے بچے ڈیٹا لینز کے ذریعے منسلک ہوتے ہیں۔,نیورل نیٹ ورک ایک ایسا نیٹ ورک ہوتا ہے جس میں مختلف نیورل پوائنٹس کے درمیان سے ڈیٹا کا تبادلہ ہوتا ہے۔ یہ نیٹ ورک عام طور پر ایسے سسٹم کے لیے استعمال ہوتا ہے جس میں ڈیٹا کو ایک سے دوسرے نیورل پوائنٹس کے درمیان سے تبادلہ کیا جاتا ہے، جیسے کہ ڈیٹا سٹورج یا ڈیٹا اینالisis سسٹم۔,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more accurate, clear, and helpful in explaining the concept of a neural network, providing a better understanding of its purpose and functionality.""
+}
+```",Error,"```json
+{
+    ""winner"": ""B"",
+    ""reason"": ""Response B is more accurate, clear, and helpful in explaining the concept of a neural network, providing a better understanding of its purpose and functionality.""
+}
+```"
